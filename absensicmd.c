@@ -22,7 +22,8 @@ main(){
     rintf("%d",i[7]);
     printf("Chiqo Rifky Saputra\n\n");
 
-    
+     printf("Michael Faizal Arrshyi\n\n");
+    printf("%d",i[2]);
     
     //testing//
 }
